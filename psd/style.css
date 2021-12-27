@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap');
+
+header {
+  background-color: #ecf6fe;
+}
+
+header h3 {
+    font:300 15px 'Josefin Sans', sans-serif ;
+  line-height: 35px;
+  color: #008aff;
+  letter-spacing: 0px;
+  margin: 0 !important;
+  
+}
+header a i {
+  margin-left: 20px;
+  
+}
+#bir{
+    background-color: #f3faff ;
+    background-image: url('img/Layer\ 3.png');
+    background-repeat:no-repeat ;
+    background-size: contain;
+    background-position:right ;
+    padding-bottom: 100px;
+}
+.menu ul li{
+    display: inline;
+}
+.menu ul li a{
+    font: 400 16px 'Josefin Sans', sans-serif ;
+color: #008aff;
+text-decoration: none;
+padding: 15px 30px;
+
+}
+#bir button{
+    font:400 14px 'Josefin Sans', sans-serif ;
+    color: #474747;
+    border-radius: 20px;
+    padding: 15px 30px;  
+}
+.menu ul li a :hover{
+    background-color: #008aff;
+    color: #fff !important;
+    padding: 15px 30px;
+    border-radius: 22px;  
+}
+.active{
+    background-color: #008aff;
+    color: #fff !important;
+    padding: 15px 30px;
+    border-radius: 22px;
+}
+#iki h6{
+    font:300 33px  'Josefin Sans', sans-serif;
+padding-top: 100px;
+color: #008aff;
+}
+#iki h5{
+    font:400 68px 'Josefin Sans', sans-serif ;
+color: #13287e;
+}
+#iki p {
+    font: 200 20px 'Josefin Sans', sans-serif;
+    width: 704px;
+    height: 100px;
+    line-height: 35px;
+    color: #474747;
+    padding-bottom: 50px;
+}
+#iki button{
+    font:400 14px 'Josefin Sans', sans-serif ;
+color: #474747;
+border-radius: 20px;
+margin-bottom: 30px;
+padding: 15px 30px;
+}
+#uc{
+background-color: #ffffff;
+
+}
+#uc h1{
+    font-size: 33px;
+color: #008aff;
+font-weight: 400;
+font-family: 'Josefin Sans', sans-serif;
+text-align: center;
+margin-top: 55px;
+}
+#uc h4{
+    font-size: 20px;
+color: #474747;
+font-weight: 300;
+font-family:'Josefin Sans', sans-serif ;
+text-align: center;
+margin-bottom: 60px;
+}
+#uc p{
+   
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: 'Josefin Sans', sans-serif;
+padding-top: 20px;
+padding-left: 50px;
+}
+#uc ul{
+    float: right;
+}
+#uc ul li a{
+  
+font-size: 20px;
+line-height: 35px;
+color: #008aff;
+font-weight: 300;
+font-family: 'Josefin Sans', sans-serif;
+text-decoration: none;
+
+
+}
+#uc button{
+    border-radius: 33px;
+    margin-bottom: 20px;
+padding: 15px 25px;
+margin-left:150px;
+margin-top: 20px;
+}
